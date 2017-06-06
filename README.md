@@ -35,7 +35,7 @@ By default plugin adds text editor for product's description and short descripti
     ```
     Please check official documentation for all available options: https://www.tinymce.com/docs/
     
-4. add class `tynimce` for form types:
+4. add class `tinymce` for form types:
     - via PHP 
     ```php
     $builder
